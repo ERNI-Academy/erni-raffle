@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "title": "Bases del sorteo – Meta Quest 3S | ERNI",
+    "description": "Bases legales del sorteo de unas gafas Meta Quest 3S organizado por ERNI."
+  },
+  "header": {
+    "logoAlt": "ERNI",
+    "switchToEnglish": "Change to English",
+    "switchToSpanish": "Cambiar a Español"
+  },
+  "hero": {
+    "alt": "Meta Quest 3S",
+    "titleLine1": "Bases del sorteo",
+    "titleLine2": "Meta Quest 3S"
+  },
+  "intro": "A continuación se recogen las bases del sorteo. Su finalidad es informar de forma clara sobre el premio, quién puede participar y cómo se resolverá la entrega del mismo.",
+  "sections": [
+    {
+      "id": "object",
+      "title": "1. Objeto del sorteo",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "La organización llevará a cabo el sorteo de unas gafas **Meta Quest 3S** entre las personas participantes que cumplan las condiciones recogidas en estas bases."
+        }
+      ]
+    },
+    {
+      "id": "requirements",
+      "title": "2. Requisitos de participación",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Podrán participar quienes cumplan al menos una de estas condiciones:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Estar entre las **10 primeras posiciones** del ranking del juego **ERNI Bots (CTF)**.",
+            "Estar entre las **10 primeras posiciones** del ranking del videojuego **Fire or Fired**."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geography",
+      "title": "3. Ámbito geográfico",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "El envío del premio se realizará únicamente a direcciones situadas en la **península ibérica**."
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "title": "4. Fecha del sorteo",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "El sorteo tendrá lugar el **22 de abril de 2026**."
+        }
+      ]
+    },
+    {
+      "id": "winner",
+      "title": "5. Selección del ganador y comunicación",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "El ganador o la ganadora se elegirá entre quienes cumplan los requisitos de participación."
+        },
+        {
+          "type": "p",
+          "text": "La organización contactará con la persona ganadora por **correo electrónico** para solicitar la dirección postal a la que enviar el premio."
+        }
+      ]
+    },
+    {
+      "id": "acceptance",
+      "title": "6. Aceptación del premio y suplencias",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "La persona ganadora dispondrá de **5 días naturales** desde el envío del correo para responder y facilitar los datos necesarios para el envío."
+        },
+        {
+          "type": "p",
+          "text": "Si no hubiera respuesta en ese plazo, la organización podrá **celebrar un nuevo sorteo** entre los participantes elegibles para designar otra persona ganadora."
+        }
+      ]
+    },
+    {
+      "id": "terms",
+      "title": "7. Aceptación de las bases",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "La participación en el sorteo supone la **aceptación íntegra** de estas bases."
+        }
+      ]
+    }
+  ],
+  "footer": "© {year} ERNI. Todos los derechos reservados."
+}

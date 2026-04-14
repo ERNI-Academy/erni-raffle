@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "title": "Giveaway rules – Meta Quest 3S | ERNI",
+    "description": "Official rules of the Meta Quest 3S headset giveaway organised by ERNI."
+  },
+  "header": {
+    "logoAlt": "ERNI",
+    "switchToEnglish": "Change to English",
+    "switchToSpanish": "Cambiar a Español"
+  },
+  "hero": {
+    "alt": "Meta Quest 3S",
+    "titleLine1": "Giveaway rules",
+    "titleLine2": "Meta Quest 3S"
+  },
+  "intro": "Below you will find the official giveaway rules. They explain the prize, who may enter, and how the prize will be delivered.",
+  "sections": [
+    {
+      "id": "object",
+      "title": "1. Purpose of the giveaway",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The organiser will run a giveaway for a **Meta Quest 3S** headset among entrants who meet the conditions set out in these rules."
+        }
+      ]
+    },
+    {
+      "id": "requirements",
+      "title": "2. Eligibility",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "You may enter if you meet at least one of the following conditions:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "You are among the **top 10** on the leaderboard for the **ERNI Bots (CTF)** game.",
+            "You are among the **top 10** on the leaderboard for the **Fire or Fired** video game."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geography",
+      "title": "3. Geographic scope",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The prize will only be shipped to addresses located on the **Iberian Peninsula**."
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "title": "4. Draw date",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The draw will take place on **22 April 2026**."
+        }
+      ]
+    },
+    {
+      "id": "winner",
+      "title": "5. Winner selection and contact",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The winner will be selected from among entrants who meet the eligibility requirements."
+        },
+        {
+          "type": "p",
+          "text": "The organiser will contact the winner by **email** to request a postal address for shipping the prize."
+        }
+      ]
+    },
+    {
+      "id": "acceptance",
+      "title": "6. Accepting the prize and runner-up",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The winner will have **5 calendar days** from the date the email is sent to reply and provide the shipping details."
+        },
+        {
+          "type": "p",
+          "text": "If there is no response within that period, the organiser reserves the right to **run a new draw** among eligible entrants to select another winner."
+        }
+      ]
+    },
+    {
+      "id": "terms",
+      "title": "7. Acceptance of the rules",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Entering the giveaway constitutes **full acceptance** of these rules."
+        }
+      ]
+    }
+  ],
+  "footer": "© {year} ERNI. All rights reserved."
+}
